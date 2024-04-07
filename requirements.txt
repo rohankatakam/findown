@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.3
+newspaper3k==0.2.8
+GoogleNews==1.6.14
+numpy==1.26.4
+cohere==5.2.2
+fastapi-poe==0.0.36
+lxml-html-clean==0.1.1
